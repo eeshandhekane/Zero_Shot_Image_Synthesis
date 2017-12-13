@@ -1,0 +1,1 @@
+The softmax should be replaced with sigmoid as otherwise the whole thing blows up and diverges

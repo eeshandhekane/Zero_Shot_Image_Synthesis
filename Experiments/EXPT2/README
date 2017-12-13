@@ -1,0 +1,2 @@
+In this experiment, we tried to keep attribute vector as closed to mu as possible. But then [0, 1, 1, 1, 1, 1, 1] and [1, 1, 1, 1, 1, 1, 1] give the same output of 8.
+Thus, we now try to see if the same approach works for modelling Y_4_1.
